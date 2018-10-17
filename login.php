@@ -17,6 +17,7 @@
   </head>
 
   <body class="text-center" background="images/greenhill.png"; style="background-repeat: no-repeat; background-size:100% 100vh;">
+      <div class="card card-register">
     <form class="form-signin">
       <img src="images/pickle.png" alt="" width="72">
       <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
@@ -32,5 +33,6 @@
       <button class="btn btn-primary btn-lg btn-block" type="submit" style="background-color:green; border-color:darkGreen">Sign in</button>
       <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
     </form>
+  </div>
   </body>
 </html>
