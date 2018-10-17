@@ -19,7 +19,7 @@
   <body class="text-center">
     <form class="form-signin">
       <img src="images/pickle.png" alt="" width="72">
-      <h1 class="h3 mb-3 font-weight-normal">Welcome! Please sign in</h1>
+      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
       <label for="inputEmail" class="sr-only">Email address</label>
       <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
       <label for="inputPassword" class="sr-only">Password</label>
@@ -29,7 +29,7 @@
           <input type="checkbox" value="remember-me"> Remember me
         </label>
       </div>
-      <button class="btn btn-primary btn-lg btn-block" type="submit" style="background-color:green;">Sign in</button>
+      <button class="btn btn-primary btn-lg btn-block btn-custom" type="submit">Sign in</button>
       <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
     </form>
   </body>
