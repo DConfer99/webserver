@@ -43,6 +43,6 @@ body {
   border-top-right-radius: 0;
 }
 
-.btn-custom{
-  background-color: #fefbd8;
+button {
+  background-color: green;
 }
