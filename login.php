@@ -17,7 +17,7 @@
   </head>
 
   <body class="text-center" background="images/greenhill.png"; style="background-repeat: no-repeat; background-size:100% 100vh;">
-    <div class="col-lg-6 ml-auto mr-auto">
+    <div class="col-lg-2 ml-auto mr-auto">
       <div class="card card-register">
     <form class="form-signin">
       <img src="images/pickle.png" alt="" width="72">
